@@ -116,15 +116,16 @@ body{
 
 
 .lh-image {
-    max-width: 50%;
-    height: 40%;
-    display: table;
-    margin: 0 auto;
+	width: 100%;
+    	max-width: 800px;
+    	height: auto;
+    	display: table;
+    	margin:  auto;
 
     }
 table, th, td {
-      border: 1px solid black;
-      margin: auto 5px;
+      	border: 1px solid black;
+      	margin: auto 5px;
       }
 td{
     padding: 15px;
